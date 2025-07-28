@@ -26,7 +26,6 @@ public class DaySeven {
             else{
                 System.out.println(i);
             }
-
         }
 
     }
